@@ -64,7 +64,7 @@ export const PROJECTS: Project[] = [
 export const EXPERIENCES: Experience[] = [
   {
     id: 'p2',
-    company: 'Equatorial Coca-Cola Bottling Company',
+    company: 'Equatorial Coca-Cola Bottling Company X Centrale Casablanca',
     role: 'Junior Consultant',
     period: 'October 2025 - January 2026',
     location: 'Casablanca, Morocco',
@@ -80,7 +80,7 @@ export const EXPERIENCES: Experience[] = [
   {
     id: 'p1',
     company: 'Junior Entreprise Centrale Casablanca (JECC)',
-    role: 'Treasurer & Project Manager',
+    role: 'Treasurer, Junior Conultant & Project Manager',
     period: '2024 - Present',
     location: 'Casablanca, Morocco',
     type: 'Professional',
@@ -139,7 +139,7 @@ export const EDUCATION: EducationItem[] = [
   {
     school: 'ESSEC Business School',
     period: '2025 – 2026',
-    degree: 'Master in Management (Academic Exchange)',
+    degree: 'Academic Exchange',
     details: 'Strategic business management and digital transformation in the Grande École program.',
     courses: ['Bssiness Intelligence', 'Innovation', 'Strategy Consulting', 'Digital Transformation', 'Entrepreneurship']
   },
@@ -207,8 +207,7 @@ export const PORTFOLIO_OWNER = {
   bio: 'Centrale Casablanca & ESSEC student specializing in Data Analytics and Industrial Strategy. Currently seeking an Assistant Engineer Internship (May 2025) and a Gap Year Program (September 2025).',
   email: 'jamilclaude.maiga@.centralecasablanca.ma',
   location: 'Casablanca / Paris',
-  profileImage: './profile.jpg',
-  cvLink: './cv.pdf',
-  github: 'https://github.com/jamilmaiga',
-  linkedin: 'https://linkedin.com/in/jamilmaiga'
+  profileImage: 'https://media.licdn.com/dms/image/v2/D4E03AQGDBiyZkkCwuQ/profile-displayphoto-scale_400_400/B4EZwCQ60XGkAg-/0/1769564516303?e=1771459200&v=beta&t=yefeyyMm5AJOyOLH4DKpgq6Gv30fZ-pzYZuWyhL3Sa8',
+  cvLink: 'jamil-claude-maiga---portfolio/cv.pdf',
+  linkedin: 'http://linkedin.com/in/jamil-claude-maiga-35a732352'
 };
