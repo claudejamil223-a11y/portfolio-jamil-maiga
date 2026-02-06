@@ -7,8 +7,8 @@ interface HeroProps {
 }
 
 const Hero: React.FC<HeroProps> = ({ onNavigate }) => {
-  const handleDownloadCV = () => {
-    window.open(PORTFOLIO_OWNER.cvLink, '_blank');
+  const handleDownloadResume = () => {
+    window.open(PORTFOLIO_OWNER.ResumeLink, '_blank');
   };
 
   return (

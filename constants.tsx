@@ -138,10 +138,10 @@ export const EXPERIENCES: Experience[] = [
 export const EDUCATION: EducationItem[] = [
   {
     school: 'ESSEC Business School',
-    period: '2025 – 2026',
+    period: '2026',
     degree: 'Academic Exchange',
     details: 'Strategic business management and digital transformation in the Grande École program.',
-    courses: ['Bssiness Intelligence', 'Innovation', 'Strategy Consulting', 'Digital Transformation', 'Entrepreneurship']
+    courses: ['Business Intelligence', 'Innovation', 'Strategy Consulting', 'Digital Transformation', 'Entrepreneurship']
   },
   {
     school: 'École Centrale Casablanca',
@@ -197,8 +197,15 @@ export const CERTIFICATIONS: Certification[] = [
 export const SKILLS: Skill[] = [
   { name: 'Power BI / DAX', level: 95, category: 'Backend' },
   { name: 'Python (Pandas, Scikit)', level: 90, category: 'Backend' },
-  { name: 'Strategic Management', level: 92, category: 'Other' },
+  { name: 'Html, ', level: 90, category: 'Backend' },
+  { name: 'Vercel, Streamlit, Power Apps', level: 90, category: 'Frontend' },
+  { name: 'Strategic Management', level: _80, category: 'Other' },
   { name: 'Industrial Simulation', level: 85, category: 'Other' }
+  { name: 'Systems Engineering', level: 85, category: 'Other' }
+  { name: 'Business Intelligence', level: 85, category: 'Other' }
+  { name: 'Teamwork,Adaptability', level: 85, category: 'Other' }
+  { name: 'Bilingual Communication (French/English)', level: 85, category: 'Other' }
+  { name: 'Creative Mindset,Analysis Synthesis', level: 85, category: 'Other' }
 ];
 
 export const PORTFOLIO_OWNER = {
@@ -206,8 +213,9 @@ export const PORTFOLIO_OWNER = {
   title: 'Engineering & Management Double Degree Student',
   bio: 'Centrale Casablanca & ESSEC student specializing in Data Analytics and Industrial Strategy. Currently seeking an Assistant Engineer Internship (May 2025) and a Gap Year Program (September 2025).',
   email: 'jamilclaude.maiga@.centralecasablanca.ma',
-  location: 'Casablanca / Paris',
+  location: 'Casablanca, Morocco (Internationally Mobile)',
   profileImage: 'https://media.licdn.com/dms/image/v2/D4E03AQGDBiyZkkCwuQ/profile-displayphoto-scale_400_400/B4EZwCQ60XGkAg-/0/1769564516303?e=1771459200&v=beta&t=yefeyyMm5AJOyOLH4DKpgq6Gv30fZ-pzYZuWyhL3Sa8',
-  cvLink: 'https://drive.google.com/drive/folders/1kBDYua7opwGxZ988uc0jW2R74qIB5mmq?usp=drive_link',
+  ResumeLink: 'https://drive.google.com/drive/folders/1kBDYua7opwGxZ988uc0jW2R74qIB5mmq?usp=drive_link',
   linkedin: 'http://linkedin.com/in/jamil-claude-maiga-35a732352'
 };
+
